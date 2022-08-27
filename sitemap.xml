@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://0xlay.github.io/posts/vs-remote-debugging/</loc>
+<lastmod>2022-08-27T10:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>https://0xlay.github.io/categories/</loc>
+<lastmod>2022-08-27T16:59:23+03:00</lastmod>
+</url>
+<url>
+<loc>https://0xlay.github.io/tags/</loc>
+<lastmod>2022-08-27T16:59:23+03:00</lastmod>
+</url>
+<url>
+<loc>https://0xlay.github.io/archives/</loc>
+<lastmod>2022-08-27T16:59:23+03:00</lastmod>
+</url>
+<url>
+<loc>https://0xlay.github.io/about/</loc>
+<lastmod>2022-08-27T16:59:23+03:00</lastmod>
+</url>
+<url>
+<loc>https://0xlay.github.io/</loc>
+</url>
+<url>
+<loc>https://0xlay.github.io/tags/visual-studio/</loc>
+</url>
+<url>
+<loc>https://0xlay.github.io/tags/debug/</loc>
+</url>
+<url>
+<loc>https://0xlay.github.io/categories/tutorial/</loc>
+</url>
+</urlset>
